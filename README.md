@@ -47,7 +47,6 @@ A unified coding dashboard that brings all your competitive programming data und
 ### 🟢 Database
 - Supabase (PostgreSQL)
 
----
 
 ---
 
