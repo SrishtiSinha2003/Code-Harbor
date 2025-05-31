@@ -33,5 +33,20 @@ A unified coding dashboard that brings all your competitive programming data und
 
 ## 🛠 Tech Stack
 
-### 🔷 Fronten
+### 🔷 Frontend
+### 🔷 Frontend
+- React.js
+- Tailwind CSS
+- Vite
+- ESLint, PostCSS
+
+### 🔶 Backend
+- Node.js
+- Express.js
+- Cheerio (for web scraping)
+
+### 🟢 Database
+- Supabase (PostgreSQL)
+
+---
 
