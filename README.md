@@ -50,3 +50,26 @@ A unified coding dashboard that brings all your competitive programming data und
 
 ---
 
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/codeharbor.git
+cd codeharbor
+```
+### 2. Setup the backend
+```bash
+cd backend
+npm install
+# Create a .env file and add your environment variables
+npm run dev
+```
+### 3. Setup the frontend
+```bash
+cd frontend
+npm install
+# Create a .env file and add your frontend environment variables
+npm run dev
+```
