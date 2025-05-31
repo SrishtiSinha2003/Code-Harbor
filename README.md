@@ -34,7 +34,6 @@ A unified coding dashboard that brings all your competitive programming data und
 ## 🛠 Tech Stack
 
 ### 🔷 Frontend
-### 🔷 Frontend
 - React.js
 - Tailwind CSS
 - Vite
