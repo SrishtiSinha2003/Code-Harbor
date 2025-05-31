@@ -1,0 +1,29 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output (in case you build)
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Optional lock files (if you choose not to commit them)
+# Uncomment below if you don't want to track lock files
+# backend/package-lock.json
+# frontend/package-lock.json
